@@ -1,0 +1,22 @@
+body,html{
+	width:840px
+}
+h1, h2{
+	display: block;
+	width: 800px;
+	background-color: #b5cdff;
+	padding: 10px;
+	border: 1px dotted gray;
+}
+h2{
+	text-align:right;
+}
+p{
+	width: 800px;
+}
+h4{
+	width: 800px;
+	color: gray;
+	display:block;
+	text-align: right;
+}
